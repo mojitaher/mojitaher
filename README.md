@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm moji</h1>
-<h3 align="center">Front-End Developer in web development and user interface design. Using modern technologies such as HTML, CSS and JavaScript, as well as popular frameworks such as React and type script. Able to create user experiences with an eye on optimizing performance and compatibility across browsers. Strong problem solving and teamwork skills, to collaborate on innovative projects and contribute to organizational goals, and familiar with next.js</h3>
+<h3 align="center">hi im mojtaba taherkhani, front-end developer from iran</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
